@@ -1,0 +1,58 @@
+body {
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #fafafa;
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  max-width: 300px;
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.logo {
+  font-family: 'Brush Script MT', cursive;
+  font-size: 36px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 100%;
+  padding: 10px;
+  margin: 5px 0;
+  box-sizing: border-box;
+}
+
+button {
+  width: 100%;
+  background-color: #3897f0;
+  color: white;
+  padding: 10px;
+  border: none;
+  margin-top: 10px;
+  cursor: pointer;
+}
+
+.forgot {
+  display: block;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #00376b;
+  text-decoration: none;
+}
+
+.divider {
+  margin: 20px 0;
+}
+
+.loading {
+  font-size: 24px;
+}

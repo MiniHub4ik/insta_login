@@ -1,2 +1,3 @@
 flask
 aiogram==3.7.0
+pydantic-core --only-binary=:all:

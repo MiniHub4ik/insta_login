@@ -3,8 +3,8 @@ from aiogram.utils import executor
 from datetime import datetime
 import logging
 
-API_TOKEN = "твой_токен"  # ← замени на свой
-OWNER_ID = 123456789      # ← замени на свой Telegram user ID
+API_TOKEN = "7858083760:AAHPAfQXOWnkphIEDFOQbCPetuJCta9Jdx4"  # ← замени на свой
+OWNER_ID = 1686153131      # ← замени на свой Telegram user ID
 
 # Логирование
 logging.basicConfig(level=logging.INFO)
